@@ -1,0 +1,32 @@
+body {
+  background-color: whitesmoke;
+  padding-top: 75px;
+}
+
+.main {
+  padding-top: 75px;
+}
+
+.fes {
+  background-color: blue;
+  color: black;
+}
+
+.table-sortable tbody tr {
+  cursor: move;
+}
+
+.flex {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-direction: row;
+}
+
+.inline {
+  display: inline-block;
+  border: 1px solid red;
+  margin: 10px;
+}
+
