@@ -1,11 +1,7 @@
 
 ## About PM
 
-tions.
-
+•	Website for tasks creation and resources allocation built with Laravel framework, JavaScript and hosted on shared hosting https://pm.ahdakh.com/.
 ## a
-
-We kuyll).
-
-- **[yj](yjt)**
+..
 -
